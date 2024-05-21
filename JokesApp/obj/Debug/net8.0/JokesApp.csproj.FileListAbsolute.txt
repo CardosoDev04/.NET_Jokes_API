@@ -141,3 +141,4 @@ D:\.NET\JokesApp\JokesApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityF
 D:\.NET\JokesApp\JokesApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\.NET\JokesApp\JokesApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\.NET\JokesApp\JokesApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.NET\JokesApp\JokesApp\obj\Debug\net8.0\JokesApp.sourcelink.json
